@@ -191,19 +191,3 @@ if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=8000)
 ```
 
-### After creating an end point, you can test it locally to make sure that it works
-```
-python app.py
-```
-![image](https://github.com/ongaunjie1/AI-Chatbot-DL-NLP/assets/118142884/65a34032-f38c-480a-928d-5e61463dda88)
-* http://127.0.0.1:8000/predict 
-* To deploy your chatbot's backend into the cloud. A free option is by using [Render](https://render.com/).
-
-## d) Designing a chatbot user interface for front-end web application
-* If you have experience working with front-end frameworks such as CSS, HTML and JavaScript
-* You can refer to an chatbot UI made by me within the chatbotui folder.
-* Feel free to modify the design to your own liking.
-* To test out a live version of the chatbot, check out my portfolio. [Portfolio](https://ongaunjie.com)
-
-### Showcase of the user interface
-![image](https://github.com/ongaunjie1/AI-Chatbot-DL-NLP/assets/118142884/161a333c-34b0-4e7e-83d1-6468d9cef9cb)
